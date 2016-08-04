@@ -1,0 +1,38 @@
+_repo: Findelkind_1367
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ouida
+    aliases:
+    - Ramée, Maria Louise
+    - De La Rame, Louisa
+    - De la Ramee, Louise
+    - De la Ramée, Louisa
+    - Ramé, Marie Louise
+    - De la Ramée, Louise
+    - Uida
+    birthdate: 1839
+    deathdate: 1908
+    gutenberg_agent_id: '1204'
+    url: http://www.gutenberg.org/2009/agents/1204
+    wikipedia: http://en.wikipedia.org/wiki/Ouida
+description: ''
+gutenberg_issued: '1998-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1367'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Grandfathers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Shepherds -- Juvenile fiction'
+- !lcc 'PR'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Domestic fiction'
+- GITenberg
+title: Findelkind
+url: http://www.gutenberg.org/ebooks/1367
